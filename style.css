@@ -1,0 +1,24 @@
+h1{
+    background-color: pink;
+    padding: 10px;
+    text-align: center;
+    width: 400px;
+    border-radius: 50px;
+}
+
+input{
+    padding: 5px;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+button{
+    padding: 5px;
+}
+
+h3{
+    padding: 5px;
+    background-color:rgb(222, 135, 135)
+}
